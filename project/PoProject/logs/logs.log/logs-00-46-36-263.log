@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,228 INFO p.WebScraping [Thread-0] Numer storny: 7
+2024-01-12 00:46:36,258 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-nadbrzezie-1a-krakow/
+2024-01-12 00:46:36,260 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Nadbrzezie 1A BP
+2024-01-12 00:46:36,260 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-wloczkow-5-krakow/
+2024-01-12 00:46:36,260 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Włóczków 5 PKN ORLEN
+2024-01-12 00:46:36,260 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-rybitwy-13-krakow/
+2024-01-12 00:46:36,260 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Rybitwy 13 BP
+2024-01-12 00:46:36,260 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-bartosza-glowackiego-56-krakow/
+2024-01-12 00:46:36,261 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Bartosza Głowackiego 56 Prywatna
+2024-01-12 00:46:36,261 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-mogilska-81-krakow/
+2024-01-12 00:46:36,261 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Mogilska 81 Circle K (Statoil)
+2024-01-12 00:46:36,261 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-a4-mop-witowice-kierunek-krakow-witowice/
+2024-01-12 00:46:36,262 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stag-gaz/stag-gaz-luzycka-22-krakow/
+2024-01-12 00:46:36,262 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Łużycka 22 STAG GAZ

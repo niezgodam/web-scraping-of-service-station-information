@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,289 INFO p.WebScraping [Thread-0] Numer storny: 8
+2024-01-12 00:46:36,329 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/r8/r8-pradnicka-30-krakow/
+2024-01-12 00:46:36,329 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Prądnicka 30 R8
+2024-01-12 00:46:36,330 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/trans-oil/trans-oil-balicka-56-krakow/
+2024-01-12 00:46:36,330 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Balicka 56 Trans-Oil
+2024-01-12 00:46:36,330 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/prk-krakow/prk-krakow-pollanki-19-krakow/
+2024-01-12 00:46:36,330 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Półłanki 19 PRK KRAKÓW
+2024-01-12 00:46:36,331 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/polpetrol/polpetrol-henryka-pachonskiego-9-krakow/
+2024-01-12 00:46:36,331 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Henryka Pachońskiego 9 Polpetrol
+2024-01-12 00:46:36,331 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-lpg/stacja-lpg-styczna-16-krakow/
+2024-01-12 00:46:36,331 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Styczna 16 Stacja LPG
+2024-01-12 00:46:36,331 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-zakliki-z-mydlnik-16-krakow/
+2024-01-12 00:46:36,331 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakliki z Mydlnik 16 Prywatna
+2024-01-12 00:46:36,332 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-lpg/stacja-lpg-wladyslawa-reymonta-22-krakow/

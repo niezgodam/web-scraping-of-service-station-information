@@ -1,0 +1,16 @@
+2023-12-28 09:19:49,893 DEBUG WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:19:49,896 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.
+2023-12-28 09:19:49,896 DEBUG WebScrapping [main] Testowanie funkcji numberOfPages w klasie WebScrapping
+2023-12-28 09:19:50,240 INFO WebScrapping [main] Liczba stron: 10
+2023-12-28 09:20:42,176 DEBUG WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:20:42,177 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.
+2023-12-28 09:20:42,178 DEBUG WebScrapping [main] Testowanie funkcji numberOfPages w klasie WebScrapping
+2023-12-28 09:20:42,533 INFO WebScrapping [main] Liczba stron: 10
+2023-12-28 09:20:42,533 INFO WebScrapping [main] Program zakończył się poprawnie
+2023-12-28 09:21:28,052 DEBUG WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:21:28,054 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.
+2023-12-28 09:21:28,054 DEBUG WebScrapping [main] Testowanie funkcji numberOfPages w klasie WebScrapping
+2023-12-28 09:21:28,385 INFO WebScrapping [main] Liczba stron: 10
+2023-12-28 09:21:28,385 INFO WebScrapping [main] Program zakończył się poprawnie
+2023-12-28 09:21:38,745 DEBUG WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:21:38,747 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.

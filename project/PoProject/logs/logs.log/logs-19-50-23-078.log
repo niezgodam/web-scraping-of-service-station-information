@@ -1,0 +1,105 @@
+2024-01-03 19:36:55,999 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 739
+2024-01-03 19:36:56,001 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:56,007 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 739
+2024-01-03 19:36:56,008 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:56,032 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 746
+2024-01-03 19:36:56,032 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:56,039 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 746
+2024-01-03 19:36:56,039 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:56,041 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 746
+2024-01-03 19:36:56,041 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:37:12,156 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowego: kapelanka
+2024-01-03 19:37:12,310 INFO WebScrapping [Thread-1] Liczba stron: 1
+2024-01-03 19:37:12,310 INFO WebScrapping [Thread-1] Numer storny: 1
+2024-01-03 19:37:12,347 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 54 Tesco
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 30 R8
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 2 BP
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 14 LOTOS Optima
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2024-01-03 19:37:12,348 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 30 Shell
+2024-01-03 19:37:12,348 INFO WebScrapping [Thread-1] Link z adresu w tablicy: [/stacje-paliw/tesco/tesco-kapelanka-54-krakow/, /stacje-paliw/r8/r8-kapelanka-30-krakow/, /stacje-paliw/bp/bp-kapelanka-2-krakow/, /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/, /stacje-paliw/shell/shell-kapelanka-30-krakow/]
+2024-01-03 19:37:12,349 INFO WebScrapping [Thread-1] Nazwa z adresu w tablicy: [Kraków, Kapelanka 54 Tesco, Kraków, Kapelanka 30 R8, Kraków, Kapelanka 2 BP, Kraków, Kapelanka 14 LOTOS Optima, Kraków, Kapelanka 30 Shell]
+2024-01-03 19:37:12,349 INFO ScrappingClass [Thread-1] Program pomyślnie zakończył działanie
+2024-01-03 19:37:12,352 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList: [Kraków, Kapelanka 54 Tesco, Kraków, Kapelanka 30 R8, Kraków, Kapelanka 2 BP, Kraków, Kapelanka 14 LOTOS Optima, Kraków, Kapelanka 30 Shell]
+2024-01-03 19:37:13,709 INFO MainUI [AWT-EventQueue-0] Selected item: Kraków, Kapelanka 14 LOTOS Optima na indexie: 3
+2024-01-03 19:37:13,709 INFO MainUI [AWT-EventQueue-0] Link do wybranej stacji: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 19:37:13,709 INFO ScrapingStation [AWT-EventQueue-0] Tutaj jest adres: https://www.autocentrum.pl/stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 19:37:15,487 INFO ScrapingStation [AWT-EventQueue-0] Tutaj znajduje sie zmienna prices: <div class="station-detail-wrapper pb text-center">
+ <h2 class="fuel-header primary-header">95</h2>
+ <div class="price">
+  6,46 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+<div class="station-detail-wrapper on text-center">
+ <h2 class="fuel-header primary-header">ON</h2>
+ <div class="price">
+  6,04 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+2024-01-03 19:37:15,488 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: 95 oraz cena: 6,46 zł
+2024-01-03 19:37:15,488 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: ON oraz cena: 6,04 zł
+2024-01-03 19:50:16,410 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 19:50:16,411 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:50:16,424 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 19:50:16,424 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:50:19,483 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowego: opolska
+2024-01-03 19:50:20,661 INFO WebScrapping [Thread-0] Liczba stron: 1
+2024-01-03 19:50:20,663 INFO WebScrapping [Thread-0] Numer storny: 1
+2024-01-03 19:50:20,709 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 19:50:20,709 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 19:50:20,710 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 60 Arge
+2024-01-03 19:50:20,710 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 19:50:20,710 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 19:50:20,710 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, DK7 (Opolska 5) Lotos
+2024-01-03 19:50:20,710 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 19:50:20,710 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 19:50:20,710 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 9 Amic
+2024-01-03 19:50:20,710 INFO WebScrapping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/arge/arge-opolska-60-krakow/, /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/, /stacje-paliw/amic/lukoil-opolska-9-krakow/]
+2024-01-03 19:50:20,710 INFO WebScrapping [Thread-0] Nazwa z adresu w tablicy: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 19:50:20,711 INFO ScrappingClass [Thread-0] Program pomyślnie zakończył działanie
+2024-01-03 19:50:20,711 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 19:50:21,864 INFO MainUI [AWT-EventQueue-0] Selected item: Kraków, Opolska 60 Arge na indexie: 0
+2024-01-03 19:50:21,864 INFO MainUI [AWT-EventQueue-0] Link do wybranej stacji: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 19:50:21,865 INFO ScrapingStation [AWT-EventQueue-0] Tutaj jest adres: https://www.autocentrum.pl/stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 19:50:23,077 INFO ScrapingStation [AWT-EventQueue-0] Tutaj znajduje sie zmienna prices: <div class="station-detail-wrapper pb text-center">
+ <h2 class="fuel-header primary-header">95</h2>
+ <div class="price">
+  6,99 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+<div class="station-detail-wrapper on text-center">
+ <h2 class="fuel-header primary-header">ON</h2>
+ <div class="price">
+  7,44 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+<div class="station-detail-wrapper lpg text-center">
+ <h2 class="fuel-header primary-header">LPG</h2>
+ <div class="price">
+  2,99 <span>zł</span>
+ </div>
+ <div class="date">
+  9 dni temu
+ </div>
+</div>

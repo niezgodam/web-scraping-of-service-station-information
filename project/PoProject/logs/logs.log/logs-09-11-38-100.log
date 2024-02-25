@@ -1,0 +1,97 @@
+2024-01-12 00:48:38,179 INFO p.MainUI [AWT-EventQueue-0] Selected item: Kraków, DK7 (Opolska 5) Lotos na indexie: 1
+2024-01-12 00:48:38,182 INFO p.MainUI [AWT-EventQueue-0] Link do wybranej stacji: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-12 00:48:38,183 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest adres: https://www.autocentrum.pl/stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-12 00:48:38,865 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj znajduje sie zmienna prices: <div class="station-detail-wrapper pb text-center">
+ <h2 class="fuel-header primary-header">95</h2>
+ <div class="price">
+  6,20 <span>zł</span>
+ </div>
+ <div class="date">
+  wczoraj
+ </div>
+</div>
+<div class="station-detail-wrapper on text-center">
+ <h2 class="fuel-header primary-header">ON</h2>
+ <div class="price">
+  5,83 <span>zł</span>
+ </div>
+ <div class="date">
+  2 miesiące temu
+ </div>
+</div>
+<div class="station-detail-wrapper lpg text-center">
+ <h2 class="fuel-header primary-header">LPG</h2>
+ <div class="price">
+  2,73 <span>zł</span>
+ </div>
+ <div class="date">
+  wczoraj
+ </div>
+</div>
+2024-01-12 00:48:38,866 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest tytuł: 95 oraz cena: 6,20 zł
+2024-01-12 00:48:38,867 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest tytuł: ON oraz cena: 5,83 zł
+2024-01-12 00:48:38,867 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest tytuł: LPG oraz cena: 2,73 zł
+2024-01-12 09:11:15,831 INFO p.MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-12 09:11:15,837 INFO p.MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-12 09:11:15,890 INFO p.MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-12 09:11:15,891 INFO p.MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-12 09:11:36,195 INFO p.MainUI [SwingWorker-pool-2-thread-1] Wprowadzona wartość tekstowego: 
+2024-01-12 09:11:36,209 INFO p.ScrapingClass [Thread-0] Wartosc adresu: 
+2024-01-12 09:11:37,208 INFO p.WebScraping [Thread-0] Liczba stron: 10
+2024-01-12 09:11:37,213 INFO p.WebScraping [Thread-0] Numer storny: 1
+2024-01-12 09:11:37,271 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-jozefa-wybickiego-3a-krakow/
+2024-01-12 09:11:37,274 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Józefa Wybickiego 3A PKN ORLEN
+2024-01-12 09:11:37,274 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-zakopianska-107-krakow/
+2024-01-12 09:11:37,275 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 107 BP
+2024-01-12 09:11:37,276 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-12 09:11:37,277 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, DK7 (Opolska 5) Lotos
+2024-01-12 09:11:37,277 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2024-01-12 09:11:37,278 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Wielicka 21 PKN ORLEN
+2024-01-12 09:11:37,278 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-os-wandy-30a-krakow/
+2024-01-12 09:11:37,279 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, os. Wandy 30a PKN ORLEN
+2024-01-12 09:11:37,280 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/valdi/valdi-nad-dlubnia-2-krakow/
+2024-01-12 09:11:37,280 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Nad Dłubnią 2 VALDI
+2024-01-12 09:11:37,281 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-powstancow-wielkopolskich-13-krakow/
+2024-01-12 09:11:37,282 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Powstańców Wielkopolskich 13 Arge
+2024-01-12 09:11:37,282 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-aleja-pokoju-91-krakow/
+2024-01-12 09:11:37,283 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja Pokoju 91 Lotos
+2024-01-12 09:11:37,283 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-jana-pawla-ii-186-krakow/
+2024-01-12 09:11:37,284 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Jana Pawła II 186 Shell
+2024-01-12 09:11:37,284 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-aleja-jana-pawla-ii-200-krakow/
+2024-01-12 09:11:37,285 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja Jana Pawła II 200 Circle K (Statoil)
+2024-01-12 09:11:37,285 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-lublanska-16a-krakow/
+2024-01-12 09:11:37,286 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Lublańska 16A Circle K (Statoil)
+2024-01-12 09:11:37,287 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-powstancow-wielkopolskich-17-krakow/
+2024-01-12 09:11:37,287 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Powstańców Wielkopolskich 17 Circle K (Statoil)
+2024-01-12 09:11:37,288 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/lotos-optima/lotos-optima-nowohucka-17-krakow/
+2024-01-12 09:11:37,288 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Nowohucka 17 LOTOS Optima
+2024-01-12 09:11:37,289 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/moya/moya-feliksa-wrobela-35-krakow/
+2024-01-12 09:11:37,290 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Feliksa Wrobela 35 MOYA
+2024-01-12 09:11:37,290 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-aleja-bora-komorowskiego-39-krakow/
+2024-01-12 09:11:37,291 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja Bora-Komorowskiego 39 BP
+2024-01-12 09:11:37,291 INFO p.WebScraping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/pkn-orlen/pkn-orlen-jozefa-wybickiego-3a-krakow/, /stacje-paliw/bp/bp-zakopianska-107-krakow/, /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-os-wandy-30a-krakow/, /stacje-paliw/valdi/valdi-nad-dlubnia-2-krakow/, /stacje-paliw/arge/arge-powstancow-wielkopolskich-13-krakow/, /stacje-paliw/lotos/lotos-aleja-pokoju-91-krakow/, /stacje-paliw/shell/shell-jana-pawla-ii-186-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-aleja-jana-pawla-ii-200-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-lublanska-16a-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-powstancow-wielkopolskich-17-krakow/, /stacje-paliw/lotos-optima/lotos-optima-nowohucka-17-krakow/, /stacje-paliw/moya/moya-feliksa-wrobela-35-krakow/, /stacje-paliw/bp/bp-aleja-bora-komorowskiego-39-krakow/]
+2024-01-12 09:11:37,292 INFO p.WebScraping [Thread-0] Nazwa z adresu w tablicy: [Kraków, Józefa Wybickiego 3A PKN ORLEN, Kraków, Zakopiańska 107 BP, Kraków, DK7 (Opolska 5) Lotos, Kraków, Wielicka 21 PKN ORLEN, Kraków, os. Wandy 30a PKN ORLEN, Kraków, Nad Dłubnią 2 VALDI, Kraków, Powstańców Wielkopolskich 13 Arge, Kraków, Aleja Pokoju 91 Lotos, Kraków, Jana Pawła II 186 Shell, Kraków, Aleja Jana Pawła II 200 Circle K (Statoil), Kraków, Lublańska 16A Circle K (Statoil), Kraków, Powstańców Wielkopolskich 17 Circle K (Statoil), Kraków, Nowohucka 17 LOTOS Optima, Kraków, Feliksa Wrobela 35 MOYA, Kraków, Aleja Bora-Komorowskiego 39 BP]
+2024-01-12 09:11:37,292 INFO p.WebScraping [Thread-0] Numer storny: 2
+2024-01-12 09:11:38,083 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-zakopianska-58-krakow/
+2024-01-12 09:11:38,084 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 58 PKN ORLEN
+2024-01-12 09:11:38,085 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/krak-tar/krak-tar-ujastek-11-krakow/
+2024-01-12 09:11:38,086 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Ujastek 11 KRAK-TAR
+2024-01-12 09:11:38,086 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-erazma-jerzmanowskiego-39-krakow/
+2024-01-12 09:11:38,087 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Erazma Jerzmanowskiego 39 PKN ORLEN
+2024-01-12 09:11:38,088 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2024-01-12 09:11:38,088 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kapelanka 54 Tesco
+2024-01-12 09:11:38,089 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-12 09:11:38,089 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Opolska 60 Arge
+2024-01-12 09:11:38,089 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-malborska-1-krakow/
+2024-01-12 09:11:38,090 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Malborska 1 BP
+2024-01-12 09:11:38,091 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-jasnogorska-2b-krakow/
+2024-01-12 09:11:38,092 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Jasnogórska 2B PKN ORLEN
+2024-01-12 09:11:38,092 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-stefana-grota-roweckiego-33-krakow/
+2024-01-12 09:11:38,093 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Stefana Grota-Roweckiego 33 PKN ORLEN
+2024-01-12 09:11:38,093 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-kamienskiego-57-krakow/
+2024-01-12 09:11:38,094 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kamieńskiego 57 BP
+2024-01-12 09:11:38,095 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/carrefour/carrefour-mieczyslawa-medweckiego-2-krakow/
+2024-01-12 09:11:38,095 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Mieczysława Medweckiego 2 Carrefour
+2024-01-12 09:11:38,096 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/auchan/auchan-henryka-kamienskiego-11-krakow/
+2024-01-12 09:11:38,096 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Henryka Kamieńskiego 11 Auchan
+2024-01-12 09:11:38,097 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-aleja-bora-komorowskiego-4-krakow/

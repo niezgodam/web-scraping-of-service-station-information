@@ -1,0 +1,5 @@
+2023-12-27 13:56:52,285 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.
+2023-12-27 13:56:52,635 WARN WebScrapping [main] Liczba stron przekroczyła spodziewany zakres
+2023-12-27 13:56:52,638 INFO WebScrapping [main] Adres ze zmienionym numerem strony: https://www.autocentrum.pl/stacje-paliw/?s=0&order=&q=kraków+
+2023-12-27 14:01:32,848 DEBUG WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-27 14:01:36,660 DEBUG WebScrapping [main] wielicka

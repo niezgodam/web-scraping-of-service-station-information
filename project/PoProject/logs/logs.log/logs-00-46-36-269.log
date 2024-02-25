@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,262 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-kryspinow-415-krakow/
+2024-01-12 00:46:36,266 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kryspinów 415 Shell
+2024-01-12 00:46:36,266 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-igolomska-szymanskiego-30-l-krakow/
+2024-01-12 00:46:36,266 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Igołomska/Szymańskiego 30 L PKN ORLEN
+2024-01-12 00:46:36,266 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-prandoty-6-krakow/
+2024-01-12 00:46:36,267 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Prandoty 6 Prywatna
+2024-01-12 00:46:36,267 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-igolomska-34-krakow/
+2024-01-12 00:46:36,267 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Igołomska 34 Shell
+2024-01-12 00:46:36,267 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-igolomska-24-krakow/
+2024-01-12 00:46:36,268 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Igołomska 24 PKN ORLEN
+2024-01-12 00:46:36,268 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-mirowska-krakow/
+2024-01-12 00:46:36,268 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Mirowska Shell
+2024-01-12 00:46:36,268 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-cystersow-21-krakow/
+2024-01-12 00:46:36,268 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Cystersów 21 Prywatna

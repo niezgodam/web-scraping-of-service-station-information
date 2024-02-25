@@ -1,0 +1,69 @@
+2024-01-03 19:50:23,077 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: 95 oraz cena: 6,99 zł
+2024-01-03 19:50:23,081 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: ON oraz cena: 7,44 zł
+2024-01-03 19:50:23,081 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: LPG oraz cena: 2,99 zł
+2024-01-03 19:50:28,834 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 1936
+2024-01-03 19:50:28,835 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 32
+2024-01-03 19:50:28,851 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 1936
+2024-01-03 19:50:28,851 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 32
+2024-01-03 20:02:07,049 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 20:02:07,051 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 20:02:07,063 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 20:02:07,063 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 20:02:10,477 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowego: opolska
+2024-01-03 20:02:11,131 INFO WebScrapping [Thread-0] Liczba stron: 1
+2024-01-03 20:02:11,134 INFO WebScrapping [Thread-0] Numer storny: 1
+2024-01-03 20:02:11,173 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 20:02:11,173 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 20:02:11,175 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 60 Arge
+2024-01-03 20:02:11,175 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 20:02:11,175 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 20:02:11,175 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, DK7 (Opolska 5) Lotos
+2024-01-03 20:02:11,175 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 20:02:11,175 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 20:02:11,175 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 9 Amic
+2024-01-03 20:02:11,175 INFO WebScrapping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/arge/arge-opolska-60-krakow/, /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/, /stacje-paliw/amic/lukoil-opolska-9-krakow/]
+2024-01-03 20:02:11,175 INFO WebScrapping [Thread-0] Nazwa z adresu w tablicy: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 20:02:11,176 INFO ScrappingClass [Thread-0] Program pomyślnie zakończył działanie
+2024-01-03 20:02:11,176 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 20:02:16,285 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowego: 
+2024-01-03 20:02:16,443 INFO WebScrapping [Thread-1] Liczba stron: 10
+2024-01-03 20:02:16,444 INFO WebScrapping [Thread-1] Numer storny: 1
+2024-01-03 20:02:16,491 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/bp/bp-zakopianska-107-krakow/
+2024-01-03 20:02:16,491 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/bp/bp-zakopianska-107-krakow/
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Zakopiańska 107 BP
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/lotos/lotos-gen-leopolda-okulickiego-61-krakow/
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/lotos/lotos-gen-leopolda-okulickiego-61-krakow/
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Gen. Leopolda Okulickiego 61 Lotos
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-autostrada-a4-kierunek-krakow-jaworzno/
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-autostrada-a4-kierunek-krakow-jaworzno/
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Nazwy stacji: Jaworzno, Autostrada A4, kierunek Kraków PKN ORLEN
+2024-01-03 20:02:16,492 WARN WebScrapping [Thread-1] Stacja nie znajduje sie w Krakowie
+2024-01-03 20:02:16,492 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-zawila-62-krakow/
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-zawila-62-krakow/
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Zawiła 62 PKN ORLEN
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/moya/moya-kornela-makuszynskiego-26-krakow/
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/moya/moya-kornela-makuszynskiego-26-krakow/
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kornela Makuszyńskiego 26 MOYA
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-siewna-28-krakow/
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-siewna-28-krakow/
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Siewna 28 Circle K 1-2-3
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-erazma-jerzmanowskiego-39-krakow/
+2024-01-03 20:02:16,493 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-erazma-jerzmanowskiego-39-krakow/
+2024-01-03 20:02:16,494 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Erazma Jerzmanowskiego 39 PKN ORLEN
+2024-01-03 20:02:16,494 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-os-kolorowe-10-a-krakow/
+2024-01-03 20:02:16,494 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-os-kolorowe-10-a-krakow/
+2024-01-03 20:02:16,494 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, os.Kolorowe 10 a PKN ORLEN
+2024-01-03 20:02:16,494 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2024-01-03 20:02:16,494 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2024-01-03 20:02:16,494 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Wielicka 183 Circle K (Statoil)
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-powstancow-wielkopolskich-17-krakow/
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-powstancow-wielkopolskich-17-krakow/
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Powstańców Wielkopolskich 17 Circle K (Statoil)
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-bialoruska-11a-krakow/
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-bialoruska-11a-krakow/
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Białoruska 11a Circle K 1-2-3
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/auchan/auchan-henryka-kamienskiego-11-krakow/
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/auchan/auchan-henryka-kamienskiego-11-krakow/
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Henryka Kamieńskiego 11 Auchan
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/carrefour/carrefour-mieczyslawa-medweckiego-2-krakow/
+2024-01-03 20:02:16,495 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/carrefour/carrefour-mieczyslawa-medweckiego-2-krakow/

@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,088 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-mirowska-201-krakow/
+2024-01-12 00:46:36,093 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Mirowska 201 BP
+2024-01-12 00:46:36,093 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-luzycka-40-krakow/
+2024-01-12 00:46:36,093 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Łużycka 40 PKN ORLEN
+2024-01-12 00:46:36,094 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-wioslarska-1-krakow/
+2024-01-12 00:46:36,094 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Wioślarska 1 PKN ORLEN
+2024-01-12 00:46:36,094 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-stanislawa-stojalowskiego-1-krakow/
+2024-01-12 00:46:36,095 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Stanisława Stojałowskiego 1 Shell
+2024-01-12 00:46:36,095 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-zakopianska-48-krakow/
+2024-01-12 00:46:36,095 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 48 Shell
+2024-01-12 00:46:36,096 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-pasternik-66-krakow/
+2024-01-12 00:46:36,096 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Pasternik 66 Arge
+2024-01-12 00:46:36,096 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-zakopianska-289-krakow/
+2024-01-12 00:46:36,096 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 289 PKN ORLEN

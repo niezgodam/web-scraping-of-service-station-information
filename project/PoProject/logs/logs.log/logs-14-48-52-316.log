@@ -1,0 +1,2 @@
+2023-12-27 14:48:52,314 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="logo"><img src="/dG9pbC5wSyZYEhRwGgxGMhtKQGxUFEkhUBwHbEYDBTNQHwxuWRgDKBQZDyQaQl1yCklXIAZCXHVaRwZzAURUf1tEV3QCWAcuSxMOJhgcSTRNERYsXBtKN1cXQD4" alt="Circle K (Statoil)"> </a>
+2023-12-27 14:48:52,316 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/

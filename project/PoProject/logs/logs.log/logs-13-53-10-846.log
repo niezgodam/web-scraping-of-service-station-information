@@ -1,0 +1,6 @@
+2023-12-27 13:49:25,237 INFO WebScrapping [main] Zedytowany podany adres: kapelanka
+2023-12-27 13:49:25,609 INFO WebScrapping [main] Liczba stron: 1
+2023-12-27 13:51:34,265 DEBUG WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-27 13:53:10,844 DEBUG WebScrapping [main] kapelanka
+2023-12-27 13:53:10,844 DEBUG WebScrapping [main] kapelanka
+2023-12-27 13:53:10,844 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+kapelanka

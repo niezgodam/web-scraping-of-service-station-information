@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,182 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kapelanka 30 R8
+2024-01-12 00:46:36,185 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-olszanicka-174-krakow/
+2024-01-12 00:46:36,185 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Olszanicka 174 PKN ORLEN
+2024-01-12 00:46:36,186 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-aleja-29-listopada-125-krakow/
+2024-01-12 00:46:36,186 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja 29 Listopada 125 BP
+2024-01-12 00:46:36,186 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-wielicka-22-krakow/
+2024-01-12 00:46:36,186 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Wielicka 22 Arge
+2024-01-12 00:46:36,186 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-bratyslawska-1-krakow/
+2024-01-12 00:46:36,187 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Bratysławska 1 Shell
+2024-01-12 00:46:36,187 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-pilotow-4b-krakow/
+2024-01-12 00:46:36,187 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Pilotów 4B PKN ORLEN
+2024-01-12 00:46:36,187 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-aleja-andersa-okulickiego-krakow/
+2024-01-12 00:46:36,187 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja Andersa/Okulickiego PKN ORLEN
+2024-01-12 00:46:36,187 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-skotnicka-242-krakow/

@@ -1,0 +1,10 @@
+2024-01-12 00:46:35,996 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Powstańców Wielkopolskich 17 Circle K (Statoil)
+2024-01-12 00:46:35,998 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/lotos-optima/lotos-optima-nowohucka-17-krakow/
+2024-01-12 00:46:35,998 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Nowohucka 17 LOTOS Optima
+2024-01-12 00:46:35,998 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/moya/moya-feliksa-wrobela-35-krakow/
+2024-01-12 00:46:35,999 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Feliksa Wrobela 35 MOYA
+2024-01-12 00:46:35,999 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-aleja-bora-komorowskiego-39-krakow/
+2024-01-12 00:46:35,999 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja Bora-Komorowskiego 39 BP
+2024-01-12 00:46:35,999 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-zakopianska-58-krakow/
+2024-01-12 00:46:36,000 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 58 PKN ORLEN
+2024-01-12 00:46:36,000 INFO p.WebScraping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/bp/bp-zakopianska-107-krakow/, /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-os-wandy-30a-krakow/, /stacje-paliw/valdi/valdi-nad-dlubnia-2-krakow/, /stacje-paliw/arge/arge-powstancow-wielkopolskich-13-krakow/, /stacje-paliw/lotos/lotos-aleja-pokoju-91-krakow/, /stacje-paliw/shell/shell-jana-pawla-ii-186-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-aleja-jana-pawla-ii-200-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-lublanska-16a-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-powstancow-wielkopolskich-17-krakow/, /stacje-paliw/lotos-optima/lotos-optima-nowohucka-17-krakow/, /stacje-paliw/moya/moya-feliksa-wrobela-35-krakow/, /stacje-paliw/bp/bp-aleja-bora-komorowskiego-39-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-zakopianska-58-krakow/]

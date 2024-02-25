@@ -1,0 +1,3 @@
+2023-12-27 14:48:52,316 DEBUG WebScrapping [main] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-27 14:48:52,317 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a>
+2023-12-27 14:48:52,318 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/

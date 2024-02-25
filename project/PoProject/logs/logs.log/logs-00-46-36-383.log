@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,354 INFO p.WebScraping [Thread-0] Numer storny: 9
+2024-01-12 00:46:36,381 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-pasternik-65-krakow/
+2024-01-12 00:46:36,381 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Pasternik 65 Arge
+2024-01-12 00:46:36,381 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-zakopianska-290-krakow/
+2024-01-12 00:46:36,381 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 290 Arge
+2024-01-12 00:46:36,381 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-rybitwy-1a-krakow/
+2024-01-12 00:46:36,382 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Rybitwy 1A Arge
+2024-01-12 00:46:36,382 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/auto-gaz/auto-gaz-dw776-aleja-pokoju-78-krakow/
+2024-01-12 00:46:36,382 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, DW776 (Aleja Pokoju 78) Auto-Gaz
+2024-01-12 00:46:36,382 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-aleja-29-listopada-39b-krakow/
+2024-01-12 00:46:36,382 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja 29 Listopada 39B BP
+2024-01-12 00:46:36,383 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-lubicz-17d-krakow/
+2024-01-12 00:46:36,383 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Lubicz 17d BP
+2024-01-12 00:46:36,383 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/carrefour/carrefour-mieczyslawy-cwilkinskiej-12-krakow/

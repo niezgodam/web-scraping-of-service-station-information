@@ -1,0 +1,108 @@
+2024-01-03 19:36:50,821 INFO ScrapingStation [AWT-EventQueue-0] Tutaj znajduje sie zmienna prices: <div class="station-detail-wrapper pb text-center">
+ <h2 class="fuel-header primary-header">95</h2>
+ <div class="price">
+  6,99 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+<div class="station-detail-wrapper on text-center">
+ <h2 class="fuel-header primary-header">ON</h2>
+ <div class="price">
+  7,44 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+<div class="station-detail-wrapper lpg text-center">
+ <h2 class="fuel-header primary-header">LPG</h2>
+ <div class="price">
+  2,99 <span>zł</span>
+ </div>
+ <div class="date">
+  9 dni temu
+ </div>
+</div>
+2024-01-03 19:36:50,825 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: 95 oraz cena: 6,99 zł
+2024-01-03 19:36:50,825 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: ON oraz cena: 7,44 zł
+2024-01-03 19:36:50,825 INFO ScrapingStation [AWT-EventQueue-0] tuta jest tytuł: LPG oraz cena: 2,99 zł
+2024-01-03 19:36:55,190 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 601
+2024-01-03 19:36:55,190 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,224 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 602
+2024-01-03 19:36:55,224 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,263 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 604
+2024-01-03 19:36:55,263 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,270 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 604
+2024-01-03 19:36:55,270 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,284 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 606
+2024-01-03 19:36:55,285 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,299 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 607
+2024-01-03 19:36:55,300 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,313 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 608
+2024-01-03 19:36:55,313 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,376 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 607
+2024-01-03 19:36:55,376 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,390 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 604
+2024-01-03 19:36:55,390 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,409 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 602
+2024-01-03 19:36:55,410 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,429 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 19:36:55,429 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,438 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 19:36:55,439 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,791 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,791 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,792 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,792 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,792 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,793 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,793 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,793 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,793 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,793 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,794 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,794 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,794 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,794 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,795 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,795 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,795 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,796 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,796 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,796 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,796 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 650
+2024-01-03 19:36:55,796 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,808 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 668
+2024-01-03 19:36:55,808 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,818 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 668
+2024-01-03 19:36:55,818 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,838 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 697
+2024-01-03 19:36:55,838 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,848 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 703
+2024-01-03 19:36:55,848 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,854 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 709
+2024-01-03 19:36:55,854 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,860 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 709
+2024-01-03 19:36:55,860 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,871 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 718
+2024-01-03 19:36:55,872 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,881 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 722
+2024-01-03 19:36:55,881 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,890 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 726
+2024-01-03 19:36:55,891 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,904 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 729
+2024-01-03 19:36:55,904 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,937 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 732
+2024-01-03 19:36:55,937 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,945 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 733
+2024-01-03 19:36:55,945 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,961 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 734
+2024-01-03 19:36:55,961 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,973 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 735
+2024-01-03 19:36:55,973 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,985 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 736
+2024-01-03 19:36:55,986 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:55,999 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 739
+2024-01-03 19:36:55,999 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18

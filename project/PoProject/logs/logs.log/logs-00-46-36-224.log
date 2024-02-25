@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,219 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kocmyrzowska 43 BP
+2024-01-12 00:46:36,221 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-aleja-jana-pawla-ii-186-krakow/
+2024-01-12 00:46:36,222 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, aleja Jana Pawła II 186 Shell
+2024-01-12 00:46:36,222 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-12 00:46:36,222 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kapelanka 14 LOTOS Optima
+2024-01-12 00:46:36,222 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-lpg/stacja-lpg-mogilska-118-krakow/
+2024-01-12 00:46:36,222 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Mogilska 118 Stacja LPG
+2024-01-12 00:46:36,223 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-12 00:46:36,223 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Opolska 9 Amic
+2024-01-12 00:46:36,223 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-aleja-pokoju-62-krakow/
+2024-01-12 00:46:36,223 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja Pokoju 62 PKN ORLEN
+2024-01-12 00:46:36,223 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-karola-bunscha-20-krakow/
+2024-01-12 00:46:36,223 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Karola Bunscha 20 PKN ORLEN
+2024-01-12 00:46:36,223 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/

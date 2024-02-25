@@ -1,0 +1,69 @@
+2024-01-03 12:22:26,385 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowa z MainUI: warszawa
+2024-01-03 12:22:26,498 FATAL WebScrapping [Thread-1] Nieprawidlowosci w wyszukiwanym adresie. Brak mozliwosci sprawdzenia danych!
+2024-01-03 12:22:26,499 INFO WebScrapping [Thread-1] Liczba stron: 0
+2024-01-03 12:22:26,499 FATAL WebScrapping [Thread-1] Brak mozliwych do uzyskania danych. Liczba stron jesst <= od 0
+2024-01-03 12:22:26,499 INFO ScrappingClass [Thread-1] Program pomyślnie zakończył działanie
+2024-01-03 12:22:27,519 INFO MainUI [AWT-EventQueue-0] Okno z wiadomoscia o braku danych
+2024-01-03 12:22:27,519 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList z ScrappingClass: []
+2024-01-03 12:22:35,244 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowa z MainUI: kapelanka
+2024-01-03 12:22:35,381 INFO WebScrapping [Thread-2] Liczba stron: 1
+2024-01-03 12:22:35,381 INFO WebScrapping [Thread-2] Numer storny: 1
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Nazwy stacji: Kraków, Kapelanka 54 Tesco
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Nazwy stacji: Kraków, Kapelanka 30 R8
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Nazwy stacji: Kraków, Kapelanka 14 LOTOS Optima
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Nazwy stacji: Kraków, Kapelanka 2 BP
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2024-01-03 12:22:35,418 DEBUG WebScrapping [Thread-2] Nazwy stacji: Kraków, Kapelanka 30 Shell
+2024-01-03 12:22:35,418 INFO WebScrapping [Thread-2] Link z adresu w tablicy: [/stacje-paliw/tesco/tesco-kapelanka-54-krakow/, /stacje-paliw/r8/r8-kapelanka-30-krakow/, /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/, /stacje-paliw/bp/bp-kapelanka-2-krakow/, /stacje-paliw/shell/shell-kapelanka-30-krakow/]
+2024-01-03 12:22:35,418 INFO WebScrapping [Thread-2] Nazwa z adresu w tablicy: [Kraków, Kapelanka 54 Tesco, Kraków, Kapelanka 30 R8, Kraków, Kapelanka 14 LOTOS Optima, Kraków, Kapelanka 2 BP, Kraków, Kapelanka 30 Shell]
+2024-01-03 12:22:35,418 INFO ScrappingClass [Thread-2] Program pomyślnie zakończył działanie
+2024-01-03 12:22:35,418 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList z ScrappingClass: [Kraków, Kapelanka 54 Tesco, Kraków, Kapelanka 30 R8, Kraków, Kapelanka 14 LOTOS Optima, Kraków, Kapelanka 2 BP, Kraków, Kapelanka 30 Shell]
+2024-01-03 12:22:50,427 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:22:50,428 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:22:50,444 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:22:50,444 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:22:54,751 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowa z MainUI: opolska
+2024-01-03 12:22:55,732 INFO WebScrapping [Thread-0] Liczba stron: 1
+2024-01-03 12:22:55,734 INFO WebScrapping [Thread-0] Numer storny: 1
+2024-01-03 12:22:55,773 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 12:22:55,773 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 12:22:55,774 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 60 Arge
+2024-01-03 12:22:55,774 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 12:22:55,774 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 12:22:55,774 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, DK7 (Opolska 5) Lotos
+2024-01-03 12:22:55,774 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 12:22:55,774 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 12:22:55,775 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 9 Amic
+2024-01-03 12:22:55,775 INFO WebScrapping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/arge/arge-opolska-60-krakow/, /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/, /stacje-paliw/amic/lukoil-opolska-9-krakow/]
+2024-01-03 12:22:55,775 INFO WebScrapping [Thread-0] Nazwa z adresu w tablicy: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 12:22:55,775 INFO ScrappingClass [Thread-0] Program pomyślnie zakończył działanie
+2024-01-03 12:22:55,776 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList z ScrappingClass: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 12:23:09,356 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowa z MainUI: kapelanka
+2024-01-03 12:23:09,493 INFO WebScrapping [Thread-1] Liczba stron: 1
+2024-01-03 12:23:09,493 INFO WebScrapping [Thread-1] Numer storny: 1
+2024-01-03 12:23:09,544 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2024-01-03 12:23:09,544 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2024-01-03 12:23:09,544 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 54 Tesco
+2024-01-03 12:23:09,544 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 30 R8
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 14 LOTOS Optima
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 2 BP
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2024-01-03 12:23:09,545 DEBUG WebScrapping [Thread-1] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2024-01-03 12:23:09,546 DEBUG WebScrapping [Thread-1] Nazwy stacji: Kraków, Kapelanka 30 Shell
+2024-01-03 12:23:09,546 INFO WebScrapping [Thread-1] Link z adresu w tablicy: [/stacje-paliw/tesco/tesco-kapelanka-54-krakow/, /stacje-paliw/r8/r8-kapelanka-30-krakow/, /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/, /stacje-paliw/bp/bp-kapelanka-2-krakow/, /stacje-paliw/shell/shell-kapelanka-30-krakow/]
+2024-01-03 12:23:09,546 INFO WebScrapping [Thread-1] Nazwa z adresu w tablicy: [Kraków, Kapelanka 54 Tesco, Kraków, Kapelanka 30 R8, Kraków, Kapelanka 14 LOTOS Optima, Kraków, Kapelanka 2 BP, Kraków, Kapelanka 30 Shell]

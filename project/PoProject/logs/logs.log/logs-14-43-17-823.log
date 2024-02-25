@@ -1,0 +1,6 @@
+2023-12-27 14:43:13,953 DEBUG WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-27 14:43:17,451 DEBUG WebScrapping [main] wielicka
+2023-12-27 14:43:17,451 DEBUG WebScrapping [main] wielicka
+2023-12-27 14:43:17,451 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+wielicka
+2023-12-27 14:43:17,451 INFO WebScrapping [main] Zedytowany podany adres: wielicka
+2023-12-27 14:43:17,822 INFO WebScrapping [main] Liczba stron: 1

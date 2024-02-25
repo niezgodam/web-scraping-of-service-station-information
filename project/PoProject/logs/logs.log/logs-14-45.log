@@ -1,0 +1,2 @@
+2023-12-27 14:45:27,832 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/pkn-orlen/pkn-orlen-raciborska-2-syrynia/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a>
+2023-12-27 14:45:27,832 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/stacje-niezrzeszone/prywatna-kartuska-330-gdansk/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a>

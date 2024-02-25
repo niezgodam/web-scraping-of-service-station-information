@@ -1,0 +1,350 @@
+2023-12-27 14:51:49,220 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="logo"><img src="/dG9pbC5wSyZYEhRwGgxGMhtKQGxUFEkhUBwHbEYDBTNQHwxuWRgDKBQZDyQaQl1yCklXIAZCXHVaRwZzAURUf1tEV3QCWAcuSxMOJhgcSTRNERYsXBtKN1cXQD4" alt="Circle K (Statoil)"> </a>
+2023-12-27 14:51:49,223 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-27 14:51:49,223 DEBUG WebScrapping [main] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-27 14:51:49,224 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 183 Circle K (Statoil)
+2023-12-27 14:51:49,224 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a>
+2023-12-27 14:51:49,224 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2023-12-27 14:51:49,224 DEBUG WebScrapping [main] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 21 PKN ORLEN
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a>
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/shell/shell-wielicka-77-krakow/
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Station Link: /stacje-paliw/shell/shell-wielicka-77-krakow/
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 77 Shell
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a>
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/arge/arge-wielicka-22-krakow/
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Station Link: /stacje-paliw/arge/arge-wielicka-22-krakow/
+2023-12-27 14:51:49,225 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 22 Arge
+2023-12-27 14:52:35,515 DEBUG WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-27 14:52:38,627 DEBUG WebScrapping [main] wielicka
+2023-12-27 14:52:38,627 DEBUG WebScrapping [main] wielicka
+2023-12-27 14:52:38,627 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+wielicka
+2023-12-27 14:52:38,628 INFO WebScrapping [main] Zedytowany podany adres: wielicka
+2023-12-27 14:52:38,995 INFO WebScrapping [main] Liczba stron: 1
+2023-12-27 14:52:38,996 WARN WebScrapping [main] Przypisanie stałej liczby stron
+2023-12-27 14:52:38,996 DEBUG WebScrapping [main] Liczba stron: 1
+2023-12-27 14:52:38,997 INFO WebScrapping [main] Adres ze zmienionym numerem strony: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+wielicka
+2023-12-27 14:52:39,066 DEBUG WebScrapping [main] Lista stacji ze scrapingu: <div class="station-item">
+ <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="logo"><img src="/dG9pbC5wSyZYEhRwGgxGMhtKQGxUFEkhUBwHbEYDBTNQHwxuWRgDKBQZDyQaQl1yCklXIAZCXHVaRwZzAURUf1tEV3QCWAcuSxMOJhgcSTRNERYsXBtKN1cXQD4" alt="Circle K (Statoil)"> </a> <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 183
+  </div>
+  <div class="address">
+   Circle K (Statoil)
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="3 dni temu">
+    <div class="fuel-logo pb">
+     miles 95
+    </div> 6,19 zł
+   </div>
+   <div class="petrol on" title="11 dni temu">
+    <div class="fuel-logo on">
+     miles diesel
+    </div> 6,39 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/1474/" data-id="1474" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 21
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol on" title="11 dni temu">
+    <div class="fuel-logo on">
+     Ekodiesel
+    </div> 6,51 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/59/" data-id="59" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a> <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 77
+  </div>
+  <div class="address">
+   Shell
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/401/" data-id="401" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/shell/shell-wielicka-77-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a> <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 22
+  </div>
+  <div class="address">
+   Arge
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/408/" data-id="408" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/arge/arge-wielicka-22-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+2023-12-27 14:52:39,067 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="logo"><img src="/dG9pbC5wSyZYEhRwGgxGMhtKQGxUFEkhUBwHbEYDBTNQHwxuWRgDKBQZDyQaQl1yCklXIAZCXHVaRwZzAURUf1tEV3QCWAcuSxMOJhgcSTRNERYsXBtKN1cXQD4" alt="Circle K (Statoil)"> </a>
+2023-12-27 14:52:39,067 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-27 14:52:39,067 DEBUG WebScrapping [main] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 183 Circle K (Statoil)
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a>
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 21 PKN ORLEN
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a>
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/shell/shell-wielicka-77-krakow/
+2023-12-27 14:52:39,068 DEBUG WebScrapping [main] Station Link: /stacje-paliw/shell/shell-wielicka-77-krakow/
+2023-12-27 14:52:39,069 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 77 Shell
+2023-12-27 14:52:39,069 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a>
+2023-12-27 14:52:39,069 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/arge/arge-wielicka-22-krakow/
+2023-12-27 14:52:39,069 DEBUG WebScrapping [main] Station Link: /stacje-paliw/arge/arge-wielicka-22-krakow/
+2023-12-27 14:52:39,069 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 22 Arge
+2023-12-28 09:04:58,203 DEBUG WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-28 09:05:33,924 DEBUG WebScrapping [main] wielicka
+2023-12-28 09:05:33,924 DEBUG WebScrapping [main] wielicka
+2023-12-28 09:05:33,925 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+wielicka
+2023-12-28 09:05:33,925 INFO WebScrapping [main] Zedytowany podany adres: wielicka
+2023-12-28 09:05:34,275 INFO WebScrapping [main] Liczba stron: 1
+2023-12-28 09:05:34,275 WARN WebScrapping [main] Przypisanie stałej liczby stron
+2023-12-28 09:05:34,276 DEBUG WebScrapping [main] Liczba stron: 1
+2023-12-28 09:05:34,278 INFO WebScrapping [main] Adres ze zmienionym numerem strony: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+wielicka
+2023-12-28 09:05:34,323 DEBUG WebScrapping [main] Lista stacji ze scrapingu: <div class="station-item">
+ <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="logo"><img src="/dG9pbC5wSyZYEhRwGgxGMhtKQGxUFEkhUBwHbEYDBTNQHwxuWRgDKBQZDyQaQl1yCklXIAZCXHVaRwZzAURUf1tEV3QCWAcuSxMOJhgcSTRNERYsXBtKN1cXQD4" alt="Circle K (Statoil)"> </a> <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 183
+  </div>
+  <div class="address">
+   Circle K (Statoil)
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="3 dni temu">
+    <div class="fuel-logo pb">
+     miles 95
+    </div> 6,19 zł
+   </div>
+   <div class="petrol on" title="11 dni temu">
+    <div class="fuel-logo on">
+     miles diesel
+    </div> 6,39 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/1474/" data-id="1474" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 21
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol on" title="11 dni temu">
+    <div class="fuel-logo on">
+     Ekodiesel
+    </div> 6,51 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/59/" data-id="59" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a> <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 77
+  </div>
+  <div class="address">
+   Shell
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/401/" data-id="401" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/shell/shell-wielicka-77-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a> <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Wielicka 22
+  </div>
+  <div class="address">
+   Arge
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/408/" data-id="408" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/arge/arge-wielicka-22-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+2023-12-28 09:05:34,323 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/" class="logo"><img src="/dG9pbC5wSyZYEhRwGgxGMhtKQGxUFEkhUBwHbEYDBTNQHwxuWRgDKBQZDyQaQl1yCklXIAZCXHVaRwZzAURUf1tEV3QCWAcuSxMOJhgcSTRNERYsXBtKN1cXQD4" alt="Circle K (Statoil)"> </a>
+2023-12-28 09:05:34,324 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-28 09:05:34,324 DEBUG WebScrapping [main] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-28 09:05:34,324 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 183 Circle K (Statoil)
+2023-12-28 09:05:34,325 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a>
+2023-12-28 09:05:34,325 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2023-12-28 09:05:34,325 DEBUG WebScrapping [main] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2023-12-28 09:05:34,325 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 21 PKN ORLEN
+2023-12-28 09:05:34,325 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a>
+2023-12-28 09:05:34,325 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/shell/shell-wielicka-77-krakow/
+2023-12-28 09:05:34,325 DEBUG WebScrapping [main] Station Link: /stacje-paliw/shell/shell-wielicka-77-krakow/
+2023-12-28 09:05:34,326 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 77 Shell
+2023-12-28 09:05:34,326 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a>
+2023-12-28 09:05:34,326 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/arge/arge-wielicka-22-krakow/
+2023-12-28 09:05:34,326 DEBUG WebScrapping [main] Station Link: /stacje-paliw/arge/arge-wielicka-22-krakow/
+2023-12-28 09:05:34,326 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Wielicka 22 Arge
+2023-12-28 09:07:07,320 DEBUG WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-28 09:07:10,828 DEBUG WebScrapping [main] kapelanka
+2023-12-28 09:07:10,829 DEBUG WebScrapping [main] kapelanka
+2023-12-28 09:07:10,829 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+kapelanka
+2023-12-28 09:07:10,829 INFO WebScrapping [main] Zedytowany podany adres: kapelanka
+2023-12-28 09:07:11,913 INFO WebScrapping [main] Liczba stron: 1
+2023-12-28 09:07:11,913 WARN WebScrapping [main] Przypisanie stałej liczby stron
+2023-12-28 09:07:11,913 DEBUG WebScrapping [main] Liczba stron: 1
+2023-12-28 09:07:11,916 INFO WebScrapping [main] Adres ze zmienionym numerem strony: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+kapelanka
+2023-12-28 09:07:11,969 DEBUG WebScrapping [main] Lista stacji ze scrapingu: <div class="station-item">
+ <a href="/stacje-paliw/tesco/tesco-kapelanka-54-krakow/" class="logo"><img src="/dGVzY28uSyY3GC8BFw5GMnRAex1ZFkkhPxY8HUsBBTM_FTcfVBoDKHsTNFUXQF1yZUNtUQ1AXHU1TT0CDUBSfzRObAUJWhAiJRk2HEgbA2Ur" alt="Tesco"> </a> <a href="/stacje-paliw/tesco/tesco-kapelanka-54-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Kapelanka 54
+  </div>
+  <div class="address">
+   Tesco
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="5 dni temu">
+    <div class="fuel-logo pb">
+     95
+    </div> 6,19 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/4408/" data-id="4408" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/tesco/tesco-kapelanka-54-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/r8/r8-kapelanka-30-krakow/" class="logo"><img src="/NzgvcjguYRsGFBVZSA5sD0VMQUUGFmMcDhoGRRQBLw4OGQ1HCxopFUofDg1IQHdPXhABWlJAdkgEQQdaA0F_QgVCVl1fWjxCSQYNDUUI" alt="R8"> </a> <a href="/stacje-paliw/r8/r8-kapelanka-30-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Kapelanka 30
+  </div>
+  <div class="address">
+   R8
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/9096/" data-id="9096" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/r8/r8-kapelanka-30-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/" class="logo"><img src="/aW1hLnBuTjZQCjpdbQ5DIhNSbkEjFkwxWAQpQTEBACNYByJDLhoGOBwBIQltQFhiAlF0DHNAWWVSXyhec0BXb1NceVlyWg04RQc_Qy0FFT5cCWIeLBJDKg" alt="LOTOS Optima"> </a> <a href="/stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Kapelanka 14
+  </div>
+  <div class="address">
+   LOTOS Optima
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/4502/" data-id="4502" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/bp/bp-kapelanka-2-krakow/" class="logo"><img src="/NzUvYnAuYRs0FC9dbg5sD3dMe0EgFmMcPBo8QTIBLw48GTdDLRopFXgfNAluQHdPZk9qCnlAd0g2QT1bdUd6QjdCbFl0WiwKewY3CWMI" alt="BP"> </a> <a href="/stacje-paliw/bp/bp-kapelanka-2-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Kapelanka 2
+  </div>
+  <div class="address">
+   BP
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/65/" data-id="65" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/bp/bp-kapelanka-2-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/shell/shell-kapelanka-30-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a> <a href="/stacje-paliw/shell/shell-kapelanka-30-krakow/" class="content">
+  <div class="name shorter">
+   <b>Kraków</b>, Kapelanka 30
+  </div>
+  <div class="address">
+   Shell
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/2554/" data-id="2554" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/shell/shell-kapelanka-30-krakow/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+2023-12-28 09:07:11,969 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/tesco/tesco-kapelanka-54-krakow/" class="logo"><img src="/dGVzY28uSyY3GC8BFw5GMnRAex1ZFkkhPxY8HUsBBTM_FTcfVBoDKHsTNFUXQF1yZUNtUQ1AXHU1TT0CDUBSfzRObAUJWhAiJRk2HEgbA2Ur" alt="Tesco"> </a>
+2023-12-28 09:07:11,970 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2023-12-28 09:07:11,970 DEBUG WebScrapping [main] Station Link: /stacje-paliw/tesco/tesco-kapelanka-54-krakow/
+2023-12-28 09:07:11,970 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Kapelanka 54 Tesco
+2023-12-28 09:07:11,970 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/r8/r8-kapelanka-30-krakow/" class="logo"><img src="/NzgvcjguYRsGFBVZSA5sD0VMQUUGFmMcDhoGRRQBLw4OGQ1HCxopFUofDg1IQHdPXhABWlJAdkgEQQdaA0F_QgVCVl1fWjxCSQYNDUUI" alt="R8"> </a>
+2023-12-28 09:07:11,970 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2023-12-28 09:07:11,971 DEBUG WebScrapping [main] Station Link: /stacje-paliw/r8/r8-kapelanka-30-krakow/
+2023-12-28 09:07:11,971 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Kapelanka 30 R8
+2023-12-28 09:07:11,971 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/" class="logo"><img src="/aW1hLnBuTjZQCjpdbQ5DIhNSbkEjFkwxWAQpQTEBACNYByJDLhoGOBwBIQltQFhiAlF0DHNAWWVSXyhec0BXb1NceVlyWg04RQc_Qy0FFT5cCWIeLBJDKg" alt="LOTOS Optima"> </a>

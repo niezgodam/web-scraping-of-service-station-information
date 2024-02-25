@@ -1,0 +1,25 @@
+2023-12-28 09:07:11,971 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2023-12-28 09:07:11,973 DEBUG WebScrapping [main] Station Link: /stacje-paliw/lotos-optima/lotos-optima-kapelanka-14-krakow/
+2023-12-28 09:07:11,973 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Kapelanka 14 LOTOS Optima
+2023-12-28 09:07:11,973 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/bp/bp-kapelanka-2-krakow/" class="logo"><img src="/NzUvYnAuYRs0FC9dbg5sD3dMe0EgFmMcPBo8QTIBLw48GTdDLRopFXgfNAluQHdPZk9qCnlAd0g2QT1bdUd6QjdCbFl0WiwKewY3CWMI" alt="BP"> </a>
+2023-12-28 09:07:11,973 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2023-12-28 09:07:11,975 DEBUG WebScrapping [main] Station Link: /stacje-paliw/bp/bp-kapelanka-2-krakow/
+2023-12-28 09:07:11,975 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Kapelanka 2 BP
+2023-12-28 09:07:11,975 DEBUG WebScrapping [main] Adres stacji ze scrapingu wraz z html: <a href="/stacje-paliw/shell/shell-kapelanka-30-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a>
+2023-12-28 09:07:11,975 DEBUG WebScrapping [main] Station link dla atrybutu href: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2023-12-28 09:07:11,975 DEBUG WebScrapping [main] Station Link: /stacje-paliw/shell/shell-kapelanka-30-krakow/
+2023-12-28 09:07:11,975 DEBUG WebScrapping [main] Nazwy stacji(stationAddress i stationName): Kraków, Kapelanka 30 Shell
+2023-12-28 09:13:39,067 INFO WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:13:39,068 INFO WebScrapping [main] Zedytowany adres: wielicka
+2023-12-28 09:16:39,078 DEBUG WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:16:39,079 INFO WebScrapping [main] Zedytowany adres: wielicka
+2023-12-28 09:16:39,079 DEBUG WebScrapping [main] Testowanie funkcji numberOfPages w klasie WebScrapping
+2023-12-28 09:16:40,383 INFO WebScrapping [main] Liczba stron: 1
+2023-12-28 09:17:26,064 DEBUG WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:17:26,066 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.
+2023-12-28 09:17:26,066 DEBUG WebScrapping [main] Testowanie funkcji numberOfPages w klasie WebScrapping
+2023-12-28 09:17:26,404 INFO WebScrapping [main] Liczba stron: 10
+2023-12-28 09:19:30,281 DEBUG WebScrapping [main] Testowanie funkcji getAddress w klasie WebScrapping
+2023-12-28 09:19:30,282 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.
+2023-12-28 09:19:30,283 DEBUG WebScrapping [main] Testowanie funkcji numberOfPages w klasie WebScrapping
+2023-12-28 09:19:30,604 INFO WebScrapping [main] Liczba stron: 10

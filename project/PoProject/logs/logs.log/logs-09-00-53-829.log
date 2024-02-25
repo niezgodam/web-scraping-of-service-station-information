@@ -1,0 +1,7 @@
+2023-12-27 08:56:28,451 INFO WebScrapping [main] Infromacja dnia
+2023-12-27 08:56:28,452 INFO WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-27 08:56:41,253 INFO WebScrapping [main] kapelanka
+2023-12-27 08:56:41,253 INFO WebScrapping [main] kapelanka
+2023-12-27 08:56:41,254 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+kapelanka
+2023-12-27 09:00:53,828 ERROR WebScrapping [main] We are starting program
+2023-12-27 09:00:53,829 DEBUG WebScrapping [main] Debugging is loading

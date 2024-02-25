@@ -1,0 +1,6 @@
+2023-12-27 14:44:03,554 DEBUG WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-27 14:44:07,580 DEBUG WebScrapping [main] 
+2023-12-27 14:44:07,581 DEBUG WebScrapping [main] 
+2023-12-27 14:44:07,581 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+
+2023-12-27 14:44:07,581 WARN WebScrapping [main] Nie został podany żaden adres. Wyszukiwania tylko ze wszystkich stacji Kraków.
+2023-12-27 14:44:08,860 WARN WebScrapping [main] Liczba stron przekroczyła spodziewany zakres

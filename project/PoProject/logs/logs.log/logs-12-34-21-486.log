@@ -1,0 +1,32 @@
+2023-12-28 12:34:21,445 INFO WebScrapping [Thread-0] Numer storny: 3
+2023-12-28 12:34:21,483 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/valdi/valdi-nad-dlubnia-2-krakow/
+2023-12-28 12:34:21,483 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Nad Dłubnią 2 VALDI
+2023-12-28 12:34:21,483 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-mogilska-122-krakow/
+2023-12-28 12:34:21,483 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Mogilska 122 PKN ORLEN
+2023-12-28 12:34:21,483 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-jozefa-wybickiego-3a-krakow/
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Józefa Wybickiego 3A PKN ORLEN
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/shell/shell-josepha-conrada-33-krakow/
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Josepha Conrada 33 Shell
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/krak-tar/krak-tar-ujastek-11-krakow/
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Ujastek 11 KRAK-TAR
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/shell/shell-aleja-pokoju-65-krakow/
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Aleja Pokoju 65 Shell
+2023-12-28 12:34:21,484 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-karola-lowinskiego-19-krakow/
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Karola Łowińskiego 19 Prywatna
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-aleja-29-listopada-155a-krakow/
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Aleja 29 listopada 155A Prywatna
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/bp/bp-bulwarowa-1-krakow/
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Bulwarowa 1 BP
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-blokowa-23-krakow/
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Blokowa 23 Prywatna
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/bp/bp-lipska-2-krakow/
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Lipska 2 BP
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/bp/bp-josepha-conrada-81-krakow/
+2023-12-28 12:34:21,485 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Josepha Conrada 81 BP
+2023-12-28 12:34:21,486 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-aleja-armii-krajowej-10-krakow/
+2023-12-28 12:34:21,486 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Aleja Armii Krajowej 10 Circle K (Statoil)
+2023-12-28 12:34:21,486 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/bp/bp-zakopianska-107-krakow/
+2023-12-28 12:34:21,486 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 107 BP
+2023-12-28 12:34:21,486 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-kazimierza-wielkiego-121-krakow/
+2023-12-28 12:34:21,486 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Kazimierza Wielkiego 121 PKN ORLEN
+2023-12-28 12:34:21,486 INFO WebScrapping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/lotos/lotos-gen-leopolda-okulickiego-61-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-autostrada-a4-kierunek-krakow-jaworzno/, /stacje-paliw/pkn-orlen/pkn-orlen-zawila-62-krakow/, /stacje-paliw/moya/moya-kornela-makuszynskiego-26-krakow/, /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-siewna-28-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-erazma-jerzmanowskiego-39-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-powstancow-wielkopolskich-17-krakow/, /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-bialoruska-11a-krakow/, /stacje-paliw/auchan/auchan-henryka-kamienskiego-11-krakow/, /stacje-paliw/carrefour/carrefour-mieczyslawa-medweckiego-2-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-zakopianska-58-krakow/, /stacje-paliw/shell/shell-aleja-pokoju-67-krakow/, /stacje-paliw/mpo/mpo-nowohucka-1-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-os-strusia-24-krakow/, /stacje-paliw/tesco/tesco-kapelanka-54-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-stefana-grota-roweckiego-33-krakow/, /stacje-paliw/moya/moya-feliksa-wrobela-35-krakow/, /stacje-paliw/krak-tar/krak-tar-mysliwska-51-krakow/, /stacje-paliw/bp/bp-mirowska-201-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-luzycka-40-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-jasnogorska-2b-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-wioslarska-1-krakow/, /stacje-paliw/shell/shell-stanislawa-stojalowskiego-1-krakow/, /stacje-paliw/arge/arge-opolska-60-krakow/, /stacje-paliw/shell/shell-zakopianska-48-krakow/, /stacje-paliw/bp/bp-aleja-bora-komorowskiego-39-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/, /stacje-paliw/arge/arge-pasternik-66-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-zakopianska-289-krakow/, /stacje-paliw/valdi/valdi-nad-dlubnia-2-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-mogilska-122-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-jozefa-wybickiego-3a-krakow/, /stacje-paliw/shell/shell-josepha-conrada-33-krakow/, /stacje-paliw/krak-tar/krak-tar-ujastek-11-krakow/, /stacje-paliw/shell/shell-aleja-pokoju-65-krakow/, /stacje-paliw/stacje-niezrzeszone/prywatna-karola-lowinskiego-19-krakow/, /stacje-paliw/stacje-niezrzeszone/prywatna-aleja-29-listopada-155a-krakow/, /stacje-paliw/bp/bp-bulwarowa-1-krakow/, /stacje-paliw/stacje-niezrzeszone/prywatna-blokowa-23-krakow/, /stacje-paliw/bp/bp-lipska-2-krakow/, /stacje-paliw/bp/bp-josepha-conrada-81-krakow/, /stacje-paliw/circle-k-statoil/circle-k-statoil-aleja-armii-krajowej-10-krakow/, /stacje-paliw/bp/bp-zakopianska-107-krakow/, /stacje-paliw/pkn-orlen/pkn-orlen-kazimierza-wielkiego-121-krakow/]

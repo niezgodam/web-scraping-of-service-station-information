@@ -1,0 +1,2 @@
+2023-12-27 14:43:17,870 DEBUG WebScrapping [main] Dokładny adres stacji ze scrapingu: <a href="/stacje-paliw/shell/shell-wielicka-77-krakow/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a>
+2023-12-27 14:43:17,871 DEBUG WebScrapping [main] Dokładny adres stacji ze scrapingu: <a href="/stacje-paliw/arge/arge-wielicka-22-krakow/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a>

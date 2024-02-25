@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,031 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Opolska 60 Arge
+2024-01-12 00:46:36,033 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-malborska-1-krakow/
+2024-01-12 00:46:36,034 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Malborska 1 BP
+2024-01-12 00:46:36,034 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-jasnogorska-2b-krakow/
+2024-01-12 00:46:36,034 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Jasnogórska 2B PKN ORLEN
+2024-01-12 00:46:36,034 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-stefana-grota-roweckiego-33-krakow/
+2024-01-12 00:46:36,034 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Stefana Grota-Roweckiego 33 PKN ORLEN
+2024-01-12 00:46:36,035 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-kamienskiego-57-krakow/
+2024-01-12 00:46:36,035 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kamieńskiego 57 BP
+2024-01-12 00:46:36,035 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/carrefour/carrefour-mieczyslawa-medweckiego-2-krakow/
+2024-01-12 00:46:36,035 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Mieczysława Medweckiego 2 Carrefour
+2024-01-12 00:46:36,036 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/auchan/auchan-henryka-kamienskiego-11-krakow/
+2024-01-12 00:46:36,036 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Henryka Kamieńskiego 11 Auchan
+2024-01-12 00:46:36,036 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-aleja-bora-komorowskiego-4-krakow/

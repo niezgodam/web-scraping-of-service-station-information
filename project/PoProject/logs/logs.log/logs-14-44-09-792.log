@@ -1,0 +1,319 @@
+2023-12-27 14:44:08,860 WARN WebScrapping [main] Przypisanie stałej liczby stron
+2023-12-27 14:44:08,861 DEBUG WebScrapping [main] Liczba stron: 0
+2023-12-27 14:44:08,864 INFO WebScrapping [main] Adres ze zmienionym numerem strony: https://www.autocentrum.pl/stacje-paliw/?s=0&order=&q=kraków+
+2023-12-27 14:44:08,864 FATAL WebScrapping [main] Brak mozliwych do uzyskania danych. Liczba stron jesst <= od 0
+2023-12-27 14:44:09,788 DEBUG WebScrapping [main] Lista stacji ze scrapingu: <div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wieniawskiego-68-walbrzych/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-wieniawskiego-68-walbrzych/" class="content">
+  <div class="name shorter">
+   <b>Wałbrzych</b>, Wieniawskiego 68
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="11 dni temu">
+    <div class="fuel-logo pb">
+     95
+    </div> 6,49 zł
+   </div>
+   <div class="petrol pbp" title="11 dni temu">
+    <div class="fuel-logo pbp">
+     Verva 98
+    </div> 7,09 zł
+   </div>
+   <div class="petrol on" title="dzisiaj">
+    <div class="fuel-logo on">
+     Ekodiesel
+    </div> 6,31 zł
+   </div>
+   <div class="petrol onp" title="11 dni temu">
+    <div class="fuel-logo onp">
+     Verva ON
+    </div> 6,51 zł
+   </div>
+   <div class="petrol lpg" title="11 dni temu">
+    <div class="fuel-logo lpg">
+     LPG
+    </div> 2,88 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/1088/" data-id="1088" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-wieniawskiego-68-walbrzych/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-marymoncka-127-warszawa/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-marymoncka-127-warszawa/" class="content">
+  <div class="name shorter">
+   <b>Warszawa</b>, Marymoncka 127
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pbp" title="5 dni temu">
+    <div class="fuel-logo pbp">
+     Verva 98
+    </div> 7,03 zł
+   </div>
+   <div class="petrol on" title="dzisiaj">
+    <div class="fuel-logo on">
+     Ekodiesel
+    </div> 6,82 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/2264/" data-id="2264" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-marymoncka-127-warszawa/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-armii-krajowej-zgorzelec/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-armii-krajowej-zgorzelec/" class="content">
+  <div class="name shorter">
+   <b>Zgorzelec</b>, Armii Krajowej
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol on" title="dzisiaj">
+    <div class="fuel-logo on">
+     Ekodiesel
+    </div> 6,54 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/2642/" data-id="2642" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-armii-krajowej-zgorzelec/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-spoldzielcza-1-b-olkusz/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-spoldzielcza-1-b-olkusz/" class="content">
+  <div class="name shorter">
+   <b>Olkusz</b>, Spółdzielcza 1 b
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="dzisiaj">
+    <div class="fuel-logo pb">
+     95
+    </div> 6,11 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/4303/" data-id="4303" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-spoldzielcza-1-b-olkusz/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-juliusza-slowackiego-132-radom/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-juliusza-slowackiego-132-radom/" class="content">
+  <div class="name shorter">
+   <b>Radom</b>, Juliusza Słowackiego 132
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="dzisiaj">
+    <div class="fuel-logo pb">
+     95
+    </div> 6,19 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/8074/" data-id="8074" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-juliusza-slowackiego-132-radom/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-czarna-1-zgierz/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-czarna-1-zgierz/" class="content">
+  <div class="name shorter">
+   <b>Zgierz</b>, Czarna 1
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol on" title="dzisiaj">
+    <div class="fuel-logo on">
+     Ekodiesel
+    </div> 6,45 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/8078/" data-id="8078" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-czarna-1-zgierz/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/pkn-orlen/pkn-orlen-raciborska-2-syrynia/" class="logo"><img src="/bGVuLnBuTSY3FzpdbQ5AMnRPbkEjFk8hPxkpQTEBAzM_GiJDLhoFKHscIQltQFtyZUx4D3tAW3U1QihddkdWfzRBeVlxWhIsOFgjHC4QDGkmGytMPw" alt="PKN ORLEN"> </a> <a href="/stacje-paliw/pkn-orlen/pkn-orlen-raciborska-2-syrynia/" class="content">
+  <div class="name shorter">
+   <b>Syrynia</b>, Raciborska 2
+  </div>
+  <div class="address">
+   PKN ORLEN
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="dzisiaj">
+    <div class="fuel-logo pb">
+     95
+    </div> 6,41 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/9209/" data-id="9209" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/pkn-orlen/pkn-orlen-raciborska-2-syrynia/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/stacje-niezrzeszone/prywatna-kartuska-330-gdansk/" class="logo"><i class="icon-fuel default-network-logo logo-100x100"></i> </a> <a href="/stacje-paliw/stacje-niezrzeszone/prywatna-kartuska-330-gdansk/" class="content">
+  <div class="name shorter">
+   <b>Gdańsk</b>, Kartuska 330
+  </div>
+  <div class="address">
+   Prywatna
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="dzisiaj">
+    <div class="fuel-logo pb">
+     95
+    </div> 6,34 zł
+   </div>
+   <div class="petrol pbp" title="dzisiaj">
+    <div class="fuel-logo pbp">
+     98
+    </div> 6,76 zł
+   </div>
+   <div class="petrol on" title="dzisiaj">
+    <div class="fuel-logo on">
+     ON
+    </div> 6,38 zł
+   </div>
+   <div class="petrol lpg" title="dzisiaj">
+    <div class="fuel-logo lpg">
+     LPG
+    </div> 2,80 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/7095/" data-id="7095" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/stacje-niezrzeszone/prywatna-kartuska-330-gdansk/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/shell/shell-kolejowa-2-walbrzych/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a> <a href="/stacje-paliw/shell/shell-kolejowa-2-walbrzych/" class="content">
+  <div class="name shorter">
+   <b>Wałbrzych</b>, Kolejowa 2
+  </div>
+  <div class="address">
+   Shell
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pbp" title="dzisiaj">
+    <div class="fuel-logo pbp">
+     V-Power Nitro+
+    </div> 7,04 zł
+   </div>
+   <div class="petrol onp" title="dzisiaj">
+    <div class="fuel-logo onp">
+     V-Power Nitro+ Diesel
+    </div> 7,06 zł
+   </div>
+   <div class="petrol pb" title="dzisiaj">
+    <div class="fuel-logo pb">
+     V-Power Nitro+ Racing
+    </div> 7,18 zł
+   </div>
+   <div class="petrol pb" title="dzisiaj">
+    <div class="fuel-logo pb">
+     FuelSave 95
+    </div> 6,39 zł
+   </div>
+   <div class="petrol on" title="dzisiaj">
+    <div class="fuel-logo on">
+     FuelSave Diesel
+    </div> 6,47 zł
+   </div>
+   <div class="petrol lpg" title="dzisiaj">
+    <div class="fuel-logo lpg">
+     Powergas
+    </div> 2,99 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/1087/" data-id="1087" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/shell/shell-kolejowa-2-walbrzych/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>
+<div class="station-item">
+ <a href="/stacje-paliw/shell/shell-jana-palubinskiego-12-gdansk/" class="logo"><img src="/c2hlbGwuTFMJDhR0WA5BR0pWQGgWFk5UAQAHaAQBAkYBAwxqGxoEXUUFDyBYQFoHW1VWJURAWgALWwZ3E0cBCgpYV3BDWhBaDQAOaQcbBBAV" alt="Shell"> </a> <a href="/stacje-paliw/shell/shell-jana-palubinskiego-12-gdansk/" class="content">
+  <div class="name shorter">
+   <b>Gdańsk</b>, Jana Pałubińskiego 12
+  </div>
+  <div class="address">
+   Shell
+  </div>
+  <div class="petrols-wrapper">
+   <div class="petrol pb" title="12 dni temu">
+    <div class="fuel-logo pb">
+     V-Power Nitro+ Racing
+    </div> 6,42 zł
+   </div>
+   <div class="petrol pb" title="dzisiaj">
+    <div class="fuel-logo pb">
+     FuelSave 95
+    </div> 6,42 zł
+   </div>
+   <div class="petrol on" title="dzisiaj">
+    <div class="fuel-logo on">
+     FuelSave Diesel
+    </div> 6,55 zł
+   </div>
+  </div>
+  <div class="more">
+   <div class="label label-primary">
+    Zobacz więcej <strong>›</strong>
+   </div>
+  </div></a>
+ <div class="action-wrapper petrol">
+  <a href="/stacje-paliw/ulubione-stacje/dodaj/8505/" data-id="8505" class="button-favorite button-favorite-add"><i class="icon-spin1 animate-spin"></i><span>Dodaj do ulubionych</span></a><a href="/stacje-paliw/shell/shell-jana-palubinskiego-12-gdansk/dodawanie-cen-paliw/" class="button-update-price"><span>Aktualizuj ceny</span></a>
+ </div>
+</div>

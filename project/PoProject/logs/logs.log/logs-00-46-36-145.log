@@ -1,0 +1,13 @@
+2024-01-12 00:46:36,136 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-bulwarowa-1-krakow/
+2024-01-12 00:46:36,141 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Bulwarowa 1 BP
+2024-01-12 00:46:36,141 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-niezrzeszone/prywatna-blokowa-23-krakow/
+2024-01-12 00:46:36,142 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Blokowa 23 Prywatna
+2024-01-12 00:46:36,142 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-lipska-2-krakow/
+2024-01-12 00:46:36,143 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Lipska 2 BP
+2024-01-12 00:46:36,143 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/bp/bp-josepha-conrada-81-krakow/
+2024-01-12 00:46:36,143 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Josepha Conrada 81 BP
+2024-01-12 00:46:36,144 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-aleja-armii-krajowej-10-krakow/
+2024-01-12 00:46:36,144 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Aleja Armii Krajowej 10 Circle K (Statoil)
+2024-01-12 00:46:36,144 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-kazimierza-wielkiego-121-krakow/
+2024-01-12 00:46:36,144 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kazimierza Wielkiego 121 PKN ORLEN
+2024-01-12 00:46:36,144 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-karola-bunscha-68-krakow/

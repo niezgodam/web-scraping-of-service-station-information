@@ -1,0 +1,76 @@
+2024-01-03 12:23:09,546 INFO ScrappingClass [Thread-1] Program pomyślnie zakończył działanie
+2024-01-03 12:23:09,551 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList z ScrappingClass: [Kraków, Kapelanka 54 Tesco, Kraków, Kapelanka 30 R8, Kraków, Kapelanka 14 LOTOS Optima, Kraków, Kapelanka 2 BP, Kraków, Kapelanka 30 Shell]
+2024-01-03 12:23:13,635 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 1936
+2024-01-03 12:23:13,635 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 32
+2024-01-03 12:23:13,647 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 1936
+2024-01-03 12:23:13,648 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 32
+2024-01-03 12:23:14,643 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:23:14,643 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:23:14,648 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:23:14,648 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:23:42,743 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:23:42,744 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:23:42,757 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:23:42,758 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:23:43,615 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 1936
+2024-01-03 12:23:43,616 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 32
+2024-01-03 12:23:43,629 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 1936
+2024-01-03 12:23:43,629 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 32
+2024-01-03 12:23:48,456 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowa z MainUI: opolska
+2024-01-03 12:23:48,813 INFO WebScrapping [Thread-0] Liczba stron: 1
+2024-01-03 12:23:48,815 INFO WebScrapping [Thread-0] Numer storny: 1
+2024-01-03 12:23:48,868 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 12:23:48,868 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 12:23:48,870 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 60 Arge
+2024-01-03 12:23:48,870 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 12:23:48,870 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 12:23:48,870 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, DK7 (Opolska 5) Lotos
+2024-01-03 12:23:48,870 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 12:23:48,870 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 12:23:48,871 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 9 Amic
+2024-01-03 12:23:48,871 INFO WebScrapping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/arge/arge-opolska-60-krakow/, /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/, /stacje-paliw/amic/lukoil-opolska-9-krakow/]
+2024-01-03 12:23:48,871 INFO WebScrapping [Thread-0] Nazwa z adresu w tablicy: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 12:23:48,871 INFO ScrappingClass [Thread-0] Program pomyślnie zakończył działanie
+2024-01-03 12:23:48,871 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList z ScrappingClass: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 12:23:50,529 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:23:50,530 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:23:50,535 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:23:50,535 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:24:32,528 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:24:32,529 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:24:32,543 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:24:32,543 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:25:50,832 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:25:50,833 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:25:50,846 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 12:25:50,846 DEBUG MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 12:25:56,137 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowa z MainUI: warszawa
+2024-01-03 12:25:56,485 FATAL WebScrapping [Thread-0] Nieprawidlowosci w wyszukiwanym adresie. Brak mozliwosci sprawdzenia danych!
+2024-01-03 12:25:56,485 INFO WebScrapping [Thread-0] Liczba stron: 0
+2024-01-03 12:25:56,487 FATAL WebScrapping [Thread-0] Brak mozliwych do uzyskania danych. Liczba stron jesst <= od 0
+2024-01-03 12:25:56,487 INFO ScrappingClass [Thread-0] Program pomyślnie zakończył działanie
+2024-01-03 12:25:57,730 INFO MainUI [AWT-EventQueue-0] Okno z wiadomoscia o braku danych
+2024-01-03 12:25:57,730 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList z ScrappingClass: []
+2024-01-03 19:36:40,364 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 19:36:40,366 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:40,379 INFO MainUI [AWT-EventQueue-0] Zmieniono rozmiar, aktualny: 600
+2024-01-03 19:36:40,380 INFO MainUI [AWT-EventQueue-0] Rozmiar HeaderAddressInput na: 18
+2024-01-03 19:36:44,625 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowego: opolska
+2024-01-03 19:36:44,995 INFO WebScrapping [Thread-0] Liczba stron: 1
+2024-01-03 19:36:44,996 INFO WebScrapping [Thread-0] Numer storny: 1
+2024-01-03 19:36:45,045 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 19:36:45,046 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 19:36:45,046 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 60 Arge
+2024-01-03 19:36:45,047 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 19:36:45,047 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/
+2024-01-03 19:36:45,047 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, DK7 (Opolska 5) Lotos
+2024-01-03 19:36:45,047 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 19:36:45,047 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/amic/lukoil-opolska-9-krakow/
+2024-01-03 19:36:45,047 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Opolska 9 Amic
+2024-01-03 19:36:45,047 INFO WebScrapping [Thread-0] Link z adresu w tablicy: [/stacje-paliw/arge/arge-opolska-60-krakow/, /stacje-paliw/lotos/lotos-dk7-opolska-5-krakow/, /stacje-paliw/amic/lukoil-opolska-9-krakow/]
+2024-01-03 19:36:45,048 INFO WebScrapping [Thread-0] Nazwa z adresu w tablicy: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 19:36:45,048 INFO ScrappingClass [Thread-0] Program pomyślnie zakończył działanie
+2024-01-03 19:36:45,048 INFO MainUI [AWT-EventQueue-0] Sprawdzenie addresList: [Kraków, Opolska 60 Arge, Kraków, DK7 (Opolska 5) Lotos, Kraków, Opolska 9 Amic]
+2024-01-03 19:36:49,922 INFO MainUI [AWT-EventQueue-0] Selected item: Kraków, Opolska 60 Arge na indexie: 0
+2024-01-03 19:36:49,922 INFO MainUI [AWT-EventQueue-0] Link do wybranej stacji: /stacje-paliw/arge/arge-opolska-60-krakow/
+2024-01-03 19:36:49,923 INFO ScrapingStation [AWT-EventQueue-0] Tutaj jest adres: https://www.autocentrum.pl/stacje-paliw/arge/arge-opolska-60-krakow/

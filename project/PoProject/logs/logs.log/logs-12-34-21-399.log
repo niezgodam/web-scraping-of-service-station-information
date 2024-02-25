@@ -1,0 +1,35 @@
+2023-12-28 12:34:21,002 INFO MainUI [AWT-EventQueue-0] Wprowadzona wartosc tekstowa z MainUI: 
+2023-12-28 12:34:21,006 DEBUG ScrappingClass [Thread-0] Testowanie klasy ScrappingClass integrujacej WebScrapping z GUI
+2023-12-28 12:34:21,006 INFO ScrappingClass [Thread-0] Wartosc adresu: 
+2023-12-28 12:34:21,342 INFO WebScrapping [Thread-0] Liczba stron: 10
+2023-12-28 12:34:21,344 INFO WebScrapping [Thread-0] Numer storny: 1
+2023-12-28 12:34:21,391 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/lotos/lotos-gen-leopolda-okulickiego-61-krakow/
+2023-12-28 12:34:21,392 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Gen. Leopolda Okulickiego 61 Lotos
+2023-12-28 12:34:21,393 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-autostrada-a4-kierunek-krakow-jaworzno/
+2023-12-28 12:34:21,395 DEBUG WebScrapping [Thread-0] Nazwy stacji: Jaworzno, Autostrada A4, kierunek Kraków PKN ORLEN
+2023-12-28 12:34:21,395 WARN WebScrapping [Thread-0] Stacja nie znajduje sie w Krakowie
+2023-12-28 12:34:21,395 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-zawila-62-krakow/
+2023-12-28 12:34:21,395 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Zawiła 62 PKN ORLEN
+2023-12-28 12:34:21,395 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/moya/moya-kornela-makuszynskiego-26-krakow/
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Kornela Makuszyńskiego 26 MOYA
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-siewna-28-krakow/
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Siewna 28 Circle K 1-2-3
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-erazma-jerzmanowskiego-39-krakow/
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Erazma Jerzmanowskiego 39 PKN ORLEN
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-wielicka-183-krakow/
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Wielicka 183 Circle K (Statoil)
+2023-12-28 12:34:21,396 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/circle-k-statoil/circle-k-statoil-powstancow-wielkopolskich-17-krakow/
+2023-12-28 12:34:21,397 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Powstańców Wielkopolskich 17 Circle K (Statoil)
+2023-12-28 12:34:21,397 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/circle-k-1-2-3/circle-k-1-2-3-statoil-bialoruska-11a-krakow/
+2023-12-28 12:34:21,397 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Białoruska 11a Circle K 1-2-3
+2023-12-28 12:34:21,397 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/auchan/auchan-henryka-kamienskiego-11-krakow/
+2023-12-28 12:34:21,397 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Henryka Kamieńskiego 11 Auchan
+2023-12-28 12:34:21,397 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/carrefour/carrefour-mieczyslawa-medweckiego-2-krakow/
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Mieczysława Medweckiego 2 Carrefour
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-zakopianska-58-krakow/
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Zakopiańska 58 PKN ORLEN
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/shell/shell-aleja-pokoju-67-krakow/
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Aleja Pokoju 67 Shell
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/mpo/mpo-nowohucka-1-krakow/
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Nazwy stacji: Kraków, Nowohucka 1 MPO
+2023-12-28 12:34:21,398 DEBUG WebScrapping [Thread-0] Station Link: /stacje-paliw/pkn-orlen/pkn-orlen-os-strusia-24-krakow/

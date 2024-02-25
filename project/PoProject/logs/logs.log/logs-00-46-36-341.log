@@ -1,0 +1,14 @@
+2024-01-12 00:46:36,332 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Władysława Reymonta 22 Stacja LPG
+2024-01-12 00:46:36,336 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-lpg/stacja-lpg-kornela-makuszynskiego-13-krakow/
+2024-01-12 00:46:36,337 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Kornela Makuszyńskiego 13 Stacja LPG
+2024-01-12 00:46:36,337 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/r8/r8-bartosza-glowackiego-32-krakow/
+2024-01-12 00:46:36,338 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Bartosza Głowackiego 32 R8
+2024-01-12 00:46:36,338 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-lpg/stacja-lpg-orawska-12a-krakow/
+2024-01-12 00:46:36,339 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Orawska 12A Stacja LPG
+2024-01-12 00:46:36,339 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/petronet/petronet-gromadzka-24-krakow/
+2024-01-12 00:46:36,339 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Gromadzka 24 PetroNet
+2024-01-12 00:46:36,339 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/auto-gaz/auto-gaz-skosna-22-krakow/
+2024-01-12 00:46:36,340 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Skośna 22 Auto-Gaz
+2024-01-12 00:46:36,340 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/stacje-lpg/stacja-lpg-zakepie-1a-krakow/
+2024-01-12 00:46:36,340 DEBUG p.WebScraping [Thread-0] Nazwy stacji: Kraków, Zakępie 1A Stacja LPG
+2024-01-12 00:46:36,340 DEBUG p.WebScraping [Thread-0] Station Link: /stacje-paliw/arge/arge-aleja-jana-pawla-ii-37b-krakow/

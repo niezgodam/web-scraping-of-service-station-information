@@ -1,0 +1,7 @@
+2023-12-27 09:01:05,966 ERROR WebScrapping [main] We are starting program
+2023-12-27 09:01:05,969 DEBUG WebScrapping [main] Debugging is loading
+2023-12-27 09:01:05,969 INFO WebScrapping [main] Infromacja dnia
+2023-12-27 09:01:05,969 INFO WebScrapping [main] Podaj adres stacji w Krakowie
+2023-12-27 09:01:17,356 INFO WebScrapping [main]     
+2023-12-27 09:01:17,357 INFO WebScrapping [main] ++++
+2023-12-27 09:01:17,357 INFO WebScrapping [main] Pełny adres stacji w Krakowie: https://www.autocentrum.pl/stacje-paliw/?s=1&order=&q=kraków+++++
