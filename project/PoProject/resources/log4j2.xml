@@ -1,0 +1,22 @@
+<Configuration status="WARN">
+  <Properties>
+    <Property name="filename">./logs/logs.log</Property>
+  </Properties>
+  <Appenders>
+    <RollingFile name="file" fileName="${filename}/logs.log" filePattern="${filename}/logs-%d{HH-mm-ss-SSS}.log">
+    <PatternLayout>
+        <pattern>%d %p %c{1.} [%t] %m%n</pattern>
+      </PatternLayout>
+      <SizeBasedTriggeringPolicy size="10000"/>
+    </RollingFile>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+  </Appenders>
+  <Loggers>
+    <Root level="trace">
+      <AppenderRef ref="file"/>
+      <AppenderRef ref="Console"/>
+    </Root>
+  </Loggers>
+</Configuration>
