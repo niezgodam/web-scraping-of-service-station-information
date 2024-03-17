@@ -1,4 +1,4 @@
-# A project in object-oriented programming. It aims to read fuel prices from a station in Krakow.
+# Java project focused on learning object-oriented programming. It aims to read fuel prices from a station in Krakow.
 
 Technologies used:
 + GUI library : **SWING**
